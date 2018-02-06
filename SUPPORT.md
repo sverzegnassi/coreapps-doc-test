@@ -11,7 +11,7 @@ As part of their Core Apps initiative, UBports provides several channels where t
 
 Please read [CONTRIBUTING.md](/CONTRIBUTING.md) for details on all the processes activated within the project.
 
-Other relevant documentation is available at: docs.ubports.com
+Other relevant documentation is available at [docs.ubports.com](https://docs.ubports.com)
 
 NOTE: _IRC and Matrix channels are bridged into the @ubports Telegram supergroup._
 
