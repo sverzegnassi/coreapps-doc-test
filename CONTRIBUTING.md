@@ -101,7 +101,7 @@ Further information about bug reporting are available on the [UBports Docs](http
 
 Unsure where to begin contributing? You can start by looking through these `good-first-issue` and `help-wanted` issues:
 
-* [Good fist issues][good-first] - issues which should only require a few lines of code, and a test or two.
+* [Good first issues][good-first] - issues which should only require a few lines of code, and a test or two.
 * [Help wanted issues][help-wanted] - issues which should be a bit more involved than `good first` issues.
 
 Both issue lists are sorted by total number of comments. While not perfect, number of comments is a reasonable proxy for impact a given change will have.
@@ -125,7 +125,7 @@ We do believe that good software don't just work, but it's also accessible, beat
 
 We have just started to focus on visuals and Human Interface Design, therefore our set of tools might be very incomplete. Here's where we need your help!
 
-If you are an artist or a designer, feel free to open a report on our GitHub Issues trackers, open a discussion in the [Design section](https://forums.ubports.com/category/40/design) of our forum, or contact us using one of the channels we offer [support](/SUPPORT.md).
+If you are an artist or a designer, feel free to open a report on our GitHub Issues trackers, open a discussion in the [Design section](https://forums.ubports.com/category/40/design) of our forum, or contact us using one of our [channels](/SUPPORT.md).
 
 We want to create a community of designers that helps with the creation of great apps.
 
@@ -193,8 +193,8 @@ We are trying to use a common code style throughout the code base to maintain un
 Listed below are the code styles guides that will be followed based on the language used.
 
  - [QML Coding Convertions](http://doc.qt.io/qt-5/qml-codingconventions.html)
- - [JS & C++ Conventions](https://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
- - [Python]() &mdash; Code should follow PEP8 and Flake regulations
+ - [JS & C++ Conventions](https://google.github.io/styleguide/cppguide.html)
+ - Python] &mdash; Code should follow PEP8 and Flake regulations
 
 __Note:__ In the QML code convention, ignore the Javascript code section guidelines.
 So the sections that should be taken into account in the QML conventions are QML Object Declarations, Grouped Properties and Lists.
@@ -215,7 +215,7 @@ Feel free to open an issue on `ubports/ubuntu-touch` if you have suggestions for
 The project follows the general conventions as defined in the [UBports official documentation](https://docs.ubports.com/en/latest/about/process/issue-tracking.html).
 The only exceptions are represented by `blocked` and `stale` label.
 
-| Label name           | :mag_right: this repository              | :mag_right: whole `ubports` org         | Description                                                                                                                              |
+| Label name           | :mag_right: this repository              | :mag_right: `ubports` org               | Description                                                                                                                              |
 | -------------------- | ---------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | `needs confirmation` | [search][search-repo-needs-confirmation] | [search][search-org-needs-confirmation] | The bug needs confirmation and/or further information from affected users.                                                               |
 | `bug`                | [search][search-repo-bug]                | [search][search-org-bug]                | This issue is a confirmed bug. If it’s reproducable, reproduction steps are described.                                                   |
@@ -296,7 +296,7 @@ The only exceptions are represented by `blocked` and `stale` label.
 [search-repo-ui]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Aui
 [search-repo-crash]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Acrash
 
-[search-repo-work-in-progress]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Awork-in-progress
+[search-repo-wip]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Awork-in-progress
 [search-repo-needs-review]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Aneeds-review
 [search-repo-under-review]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Aunder-review
 [search-repo-requires-changes]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Arequires-changes
@@ -304,5 +304,6 @@ The only exceptions are represented by `blocked` and `stale` label.
 
 ### Credits
 
- - This document has been modelled after the `atom/atom` counterpart. All the credits goes to them for their very inspiring dedication.
+ - This document has been modelled after the `atom/atom` counterpart.
+   All the credits goes to them for their very inspiring dedication.
  - [How To Write A Proper Git Commit Message on _Medium_](https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791)
