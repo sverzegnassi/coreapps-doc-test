@@ -76,7 +76,7 @@ All the apps on Ubuntu Touch are restricted on what they can do on an actual dev
 
 Even if the official suite of core apps could make exceptions &mdash; it's been developed by a trusted collective of developers &mdash; we do want to enforce good practises.
 
-Exceptions are therefore applied only when **strictly** necessary, which means that all the possible and reasonable solutions have been already tested.
+Exceptions are therefore applied only when **strictly** necessary, which means that all the possible and reasonable solutions has been already tested.
 
 To new contributors, we ask to get familiar with the concepts around the app confinement.
 
@@ -254,47 +254,47 @@ The only exceptions are represented by `blocked` and `stale` label.
 | `requires-changes` | [search][search-repo-requires-changes] | Pull requests which need to be updated based on review comments and then reviewed again. |
 | `needs-testing`    | [search][search-repo-needs-testing]    | Pull requests which need manual testing.                                                 |
 
-[search-repo-needs-confirmation]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Aneeds+confirmation
-[search-org-needs-confirmation]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Aneeds+confirmation
+[search-repo-needs-confirmation]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Aneeds+confirmation
+[search-org-needs-confirmation]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"needs+confirmation"
 
-[search-repo-bug]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Abug
-[search-org-bug]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Abug
+[search-repo-bug]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Abug
+[search-org-bug]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"bug"
 
-[search-repo-opinion]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Aopinion
-[search-org-opinion]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Aopinion
+[search-repo-opinion]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Aopinion
+[search-org-opinion]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"opinion"
 
-[search-repo-enhancement]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Aenhancement
-[search-org-enhancement]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Aenhancement
+[search-repo-enhancement]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement
+[search-org-enhancement]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"enhancement"
 
-[search-repo-question]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Aquestion
-[search-org-question]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Aquestion
+[search-repo-question]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Aquestion
+[search-org-question]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"question"
 
-[search-repo-invalid]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Ainvalid
-[search-org-invalid]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Ainvalid
+[search-repo-invalid]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Ainvalid
+[search-org-invalid]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"invalid"
 
-[search-repo-duplicate]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Aduplicate
-[search-org-duplicate]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Aduplicate
+[search-repo-duplicate]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Aduplicate
+[search-org-duplicate]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"duplicate"
 
-[search-repo-help-wanted]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Ahelp+wanted
-[search-org-help-wanted]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Ahelp+wanted
+[search-repo-help-wanted]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Ahelp+wanted
+[search-org-help-wanted]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"help+wanted"
 
-[search-repo-good-first-issue]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Agood+first+issue
-[search-org-good-first-issue]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Agood+first+issue
+[search-repo-good-first-issue]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Agood+first+issue
+[search-org-good-first-issue]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"good+first+issue"
 
-[search-repo-wontfix]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Awontfix
-[search-org-wontfix]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aubports+label%3Awontfix
+[search-repo-wontfix]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Awontfix
+[search-org-wontfix]: https://github.com/search?utf8=✓&type=Issues&q=org%3Aubports+label%3A"wontfix"
 
-[search-repo-blocked]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Ablocked
+[search-repo-blocked]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Ablocked
 
-[search-repo-stale]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Astale
+[search-repo-stale]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Astale
 
 
 
-[search-repo-documentation]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Adocumentation
-[search-repo-performance]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Aperformance
-[search-repo-security]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Asecurity
-[search-repo-ui]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Aui
-[search-repo-crash]: https://github.com/search?q=is%3Aopen+is%3Aissue+repo%3Aubports%2Fterminal-app+label%3Acrash
+[search-repo-documentation]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation
+[search-repo-performance]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Aperformance
+[search-repo-security]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Asecurity
+[search-repo-ui]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Aui
+[search-repo-crash]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Acrash
 
 [search-repo-wip]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Awork-in-progress
 [search-repo-needs-review]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Aneeds-review
