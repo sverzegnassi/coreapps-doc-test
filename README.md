@@ -1,4 +1,5 @@
-# Terminal application for Ubuntu Touch [![translations](https://translate.ubports.com/widgets/ubports/terminal-app/svg-badge.svg)](https://translate.ubports.com/projects/ubports/terminal-app) [![license](https://img.shields.io/badge/license-GPL3-blue.svg)](https://github.com/ubports/terminal-app/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/ubports/terminal-app.svg)](https://github.com/ubports/terminal-app/issues)
+# Terminal application for Ubuntu Touch
+[![translations](https://translate.ubports.com/widgets/ubports/terminal-app/svg-badge.svg)](https://translate.ubports.com/projects/ubports/terminal-app) [![license](https://img.shields.io/badge/license-GPL3-blue.svg)](https://github.com/ubports/terminal-app/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/ubports/terminal-app.svg)](https://github.com/ubports/terminal-app/issues)
 
 
 A powerful GNU/Linux terminal emulator, designed for converging on desktop and mobile devices.
