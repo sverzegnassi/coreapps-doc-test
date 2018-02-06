@@ -1,8 +1,8 @@
 Before submitting a PR, please mind creating an issue first.
 
-We'd prefer to discuss any change in the open, so that any community member or user can take part in the discussion.
+We'd prefer to discuss any change in the open, so that any community member or users can take part in the discussion.
 
-Closes #<issue-number>
+Closes #issue-number
 
 NOTE: _This will auto-close the related issue that your PR fixes_
 
