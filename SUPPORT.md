@@ -13,7 +13,7 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) for details on all the processes
 
 Other relevant documentation is available at [docs.ubports.com](https://docs.ubports.com)
 
-NOTE: _IRC and Matrix channels are bridged into the @ubports Telegram supergroup._
+NOTE: _IRC and Matrix channels are bridged into the `@ubports` Telegram supergroup._
 
 [tg-general]: https://t.me/ubports
 [tg-ux]: https://t.me/UBports_UX
