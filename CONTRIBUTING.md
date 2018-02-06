@@ -48,7 +48,7 @@ By joining our community activities, you agree to abide by our [CODE_OF_CONDUCT.
 
 All the front-end software used in Ubuntu Touch uses Qt and QtQuick frameworks. QtQuick allows us to leverage OpenGL performances while designing a responsive and adaptive GUI. Therefore a large part of the Ubuntu Touch software is written in C++, QML (Qt Modeling Language), and JavaScript.
 
-At the top of that, we support the Ubuntu UI Toolkit library, an extension to QML that enables more powerful responsive features. It also enable our set of applications to seamlessly scale across multiple form factors - from smartphones to desktops.
+At the top of that, we support the Ubuntu UI Toolkit library, an extension to QML that enables more powerful responsive features. It also enables our set of applications to seamlessly scale across multiple form factors - from smartphones to desktops.
 
 As part of our work on Ubuntu Touch 16.04, we're also planning to migrate our apps to QtQuick Controls 2, which provides better performances.
 
@@ -74,7 +74,7 @@ Make sure to read Clickable documentation and know its basics.
 
 All the apps on Ubuntu Touch are restricted on what they can do on an actual device. This is **by design**.
 
-Even if the official suite of core apps could make execptions &mdash; it's been developed by a trusted collective of developers &mdash; we do want to enforce good practises.
+Even if the official suite of core apps could make exceptions &mdash; it's been developed by a trusted collective of developers &mdash; we do want to enforce good practises.
 
 Exceptions are therefore applied only when **strictly** necessary, which means that all the possible and reasonable solutions has been already tested.
 
