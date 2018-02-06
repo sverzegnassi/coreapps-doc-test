@@ -76,7 +76,7 @@ All the apps on Ubuntu Touch are restricted on what they can do on an actual dev
 
 Even if the official suite of core apps could make exceptions &mdash; it's been developed by a trusted collective of developers &mdash; we do want to enforce good practises.
 
-Exceptions are therefore applied only when **strictly** necessary, which means that all the possible and reasonable solutions has been already tested.
+Exceptions are therefore applied only when **strictly** necessary, which means that all the possible and reasonable solutions have been already tested.
 
 To new contributors, we ask to get familiar with the concepts around the app confinement.
 
