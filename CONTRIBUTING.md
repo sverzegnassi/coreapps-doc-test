@@ -296,11 +296,11 @@ The only exceptions are represented by `blocked` and `stale` label.
 [search-repo-ui]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Aui
 [search-repo-crash]: https://github.com/ubports/terminal-app/issues?q=is%3Aopen+is%3Aissue+label%3Acrash
 
-[search-repo-wip]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Awork-in-progress
-[search-repo-needs-review]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Aneeds-review
-[search-repo-under-review]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Aunder-review
-[search-repo-requires-changes]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Arequires-changes
-[search-repo-needs-testing]: https://github.com/search?q=is%3Aopen+is%3Apr+repo%3Aubports%2Fterminal-app+label%3Aneeds-testing
+[search-repo-wip]: https://github.com/ubports/terminal-app/pulls?utf8=✓&q=is%3Apr+is%3Aopen+label%3Awork-in-progress
+[search-repo-needs-review]: https://github.com/ubports/terminal-app/pulls?utf8=✓&q=is%3Apr+is%3Aopen+label%3Aneeds-review
+[search-repo-under-review]: https://github.com/ubports/terminal-app/pulls?utf8=✓&q=is%3Apr+is%3Aopen+label%3Aunder-review
+[search-repo-requires-changes]: https://github.com/ubports/terminal-app/pulls?utf8=✓&q=is%3Apr+is%3Aopen+label%3Arequires-changes
+[search-repo-needs-testing]: https://github.com/ubports/terminal-app/pulls?utf8=✓&q=is%3Apr+is%3Aopen+label%3Aneeds-testing
 
 ### Credits
 
