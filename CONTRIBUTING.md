@@ -19,16 +19,16 @@ By joining our community activities, you agree to abide by our [CODE_OF_CONDUCT.
 
     * [Qt 5 and QtQuick 2](#qt-5-and-qtquick-2)
     * [Click packages](#click-packages)
-    * [Security & Confinement limitations](#security-&-confinement-limitations)
+    * [Security and Confinement limitations](#security-and-confinement-limitations)
 
 * [How Can I Contribute?](#how-can-i-contribute)
 
-    * [Bugs & Enhancement suggestions](#bugs-&-enhancement-suggestions)
+    * [Bugs and Enhancement suggestions](#bugs-and-enhancement-suggestions)
     * [Your first code contribution](#your-first-code-contribution)
     * [Pull Requests](#pull-requests)
-    * [Design UI & UX](#design-ui-&-ux)
+    * [Design UI and UX](#design-ui-and-ux)
     * [Translations](#translations)
-    * [Testing & Quality assurance](#testing-&-quality-assurance)
+    * [Testing and Quality assurance](#testing-and-quality-assurance)
     * [Talk about your work](#talk-about-your-work)
 
 * [Styleguides](#styleguides)
@@ -85,7 +85,7 @@ To new contributors, we ask to get familiar with the concepts around the app con
 
 ## How Can I Contribute?
 
-### Bugs & Enhancement suggestions
+### Bugs and Enhancement suggestions
 
 We use the [GitHub issues](https://github.com/ubports/terminal-app/issues) to track all our bugs and feature requests.
 
@@ -119,7 +119,7 @@ When committing changes, make sure to group related changes so that the project 
 
 Read also [Git commit messages](#git-commit-messages) from this document.
 
-### Design UI & UX
+### Design UI and UX
 
 We do believe that good software don't just work, but it's also accessible, beatiful, and usable.
 
@@ -138,7 +138,7 @@ It's really that easy!
 
 More information are available on the [UBports Documentation](https://docs.ubports.com/en/latest/contribute/translations.html) website.
 
-### Testing & Quality assurance
+### Testing and Quality assurance
 
 We appreciate any help that can level up the quality of our set of applications or tools, so... welcome on board!
 
