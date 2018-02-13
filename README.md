@@ -76,11 +76,11 @@ This project is available under the terms of the GNU GPL v3.
 The full text of the license is available in the [COPYING](/COPYING) file.
 
 
-## Acknowledments
+## Acknowledgments
 
 `ubports/terminal-app` would not exist without the contributions from several people and communities.
 
-Here is a non-exaustive list of people and projects that made it possible:
+Here is a non-exhaustive list of people and projects that made it possible:
 
 - Filippo Scognamiglio, who originally wrote the application
 - The Ubuntu and [UBports translators](https://translate.ubports.com/stats/), for their great contribution
