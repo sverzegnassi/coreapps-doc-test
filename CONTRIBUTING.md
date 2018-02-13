@@ -194,7 +194,7 @@ Listed below are the code styles guides that will be followed based on the langu
 
  - [QML Coding Convertions](http://doc.qt.io/qt-5/qml-codingconventions.html)
  - [JS & C++ Conventions](https://google.github.io/styleguide/cppguide.html)
- - Python] &mdash; Code should follow PEP8 and Flake regulations
+ - Python &mdash; Code should follow [PEP8](https://www.python.org/dev/peps/pep-0008/) and Flake regulations
 
 __Note:__ In the QML code convention, ignore the Javascript code section guidelines.
 So the sections that should be taken into account in the QML conventions are QML Object Declarations, Grouped Properties and Lists.
