@@ -121,7 +121,7 @@ Read also [Git commit messages](#git-commit-messages) from this document.
 
 ### Design UI and UX
 
-We do believe that good software don't just work, but it's also accessible, beatiful, and usable.
+Good software don't just work, but it's also accessible, beautiful, and usable.
 
 We have just started to focus on visuals and Human Interface Design, therefore our set of tools might be very incomplete. Here's where we need your help!
 
