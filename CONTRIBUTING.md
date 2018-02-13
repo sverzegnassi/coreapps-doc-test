@@ -121,10 +121,9 @@ Read also [Git commit messages](#git-commit-messages) from this document.
 
 ### Design UI and UX
 
-Good software don't just work, but it's also accessible, beautiful, and usable.
+Good software doesn't just work, but it's also accessible, beautiful, and usable.
 
-We have just started to focus on visuals and Human Interface Design, therefore our set of tools might be very incomplete. Here's where we need your help!
-
+Here's where we need your help!
 If you are an artist or a designer, feel free to open a report on our GitHub Issues trackers, open a discussion in the [Design section](https://forums.ubports.com/category/40/design) of our forum, or contact us using one of our [channels](/SUPPORT.md).
 
 We want to create a community of designers that helps with the creation of great apps.
