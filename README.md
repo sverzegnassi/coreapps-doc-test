@@ -10,12 +10,13 @@ A powerful GNU/Linux terminal emulator, designed for converging on desktop and m
 
 ### Branches
 
-- `vivid` is the target for Ubuntu Touch 15.04
-- `xenial` (current) is the target for Ubuntu Touch 16.04
+- `vivid` (current) is the target for Ubuntu Touch 15.04.
+- `xenial` is the target for Ubuntu Touch 16.04
+- `master` _this branch is currently inactive_
 
 ### Installing
 
-Latest stable version of UBports Terminal app is available on [OpenStore](https://open.uappexplorer.com/app/com.ubuntu.terminal). 
+Latest stable version of UBports Terminal app is available on [OpenStore](https://open.uappexplorer.com/app/com.ubuntu.terminal). Currently, stable releases are built from the `vivid` branch.
 
 ### Building from scratch
 
